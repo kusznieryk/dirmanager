@@ -1,0 +1,26 @@
+{
+  "name": "dirmanager",
+  "version": "1.0.0",
+  "description": "Directory manager CLI tool made following https://blog.logrocket.com/building-typescript-cli-node-js-commander/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kusznieryk/dirmanager.git"
+  },
+  "keywords": [
+    "cli",
+    "tool",
+    "typescript",
+    "commanderjs",
+    "nodejs"
+  ],
+  "author": "Kusznieryk Eduardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kusznieryk/dirmanager/issues"
+  },
+  "homepage": "https://github.com/kusznieryk/dirmanager#readme"
+}
